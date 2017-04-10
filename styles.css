@@ -1,5 +1,14 @@
 body {
-    color:green;
+    color:white;
     background:url(images/park.jpeg) no-repeat fixed center;
     background-size: cover;
+}
+div.parent-container{
+    text-align: center;
+    padding: 50px;
+    font-weight: 300;
+}
+h1 {
+    font-size: 100px;
+    font-weight:300;
 }
