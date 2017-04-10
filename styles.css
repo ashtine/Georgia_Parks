@@ -1,4 +1,5 @@
 body {
     color:green;
-    display: flex;
+    background:url(images/park.jpeg) no-repeat fixed center;
+    background-size: cover;
 }
